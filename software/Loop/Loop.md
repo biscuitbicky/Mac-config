@@ -1,8 +1,8 @@
 
-based on 1.0.0-beta.15 (817) ^ Apr 9, 2024
+Based on 1.0.0-beta.15 (817) ^ Apr 9, 2024
 
 https://github.com/MrKai77/Loop
-#### General
+### General
 ![General Page](general.png)
 * Behavior
 	* Window Snapping
@@ -13,30 +13,30 @@ https://github.com/MrKai77/Loop
 	  窗口从Loop分配的位置拖离时，恢复到原先大小
 * Accent Color
   配色。系统强调色就挺好看的。
-#### Radial Menu
+### Radial Menu
 ![Radial Menu Page](radial_menu.png)
 * Appearance
 	* Disable cursor interaction
 	  禁用光标交互
 	* Corner Radius
 	  拐角半径
-#### Preview
+### Preview
 ![Preview Page](preview.png)
 * Appearance
 	* Padding
 	  预览边框到屏幕边缘的距离
-#### Keybindings
+### Keybindings
 ![Keybindings Page](keybindings.png)
 * Trigger Key
 	* Trigger Key
 	  触发键：选择地球仪键
 	* Middle-click to trigger Loop
 	  使用鼠标中键触发Loop
-#### Excluded Apps
+### Excluded Apps
 ![Excluded Apps Page](excluded_apps.png)
 * Excluded Applications
   豁免程序。被添加的程序将不接受Loop调节。
-#### More
+### More
 ![More Page](more.png)
 * Stage Manager
 	* Respect Stage Manager
