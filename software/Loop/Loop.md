@@ -30,6 +30,7 @@ https://github.com/MrKai77/Loop
 * Trigger Key
 	* Trigger Key
 	  触发键：选择地球仪键
+	  PS: 我个人是绝对推荐Globe键作为trigger key，但如果你使用不支持Globe键的外接键盘，opt键会是一种迫不得已的选择，
 	* Middle-click to trigger Loop
 	  使用鼠标中键触发Loop
 ### Excluded Apps
