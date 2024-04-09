@@ -3,7 +3,7 @@ My MacOS configuration and setting.
 
 # Config & Setting
 
-#### Loop
+### Loop
 
 An elegant Window Manger on MacOS.
 
@@ -11,7 +11,9 @@ An elegant Window Manger on MacOS.
 
 [My Loop Setting](software/Loop/Loop.md)
 
-#### MediaMate
+### MediaMate
+
+
 
 
 
