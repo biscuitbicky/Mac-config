@@ -27,3 +27,12 @@ https://kyome.io/runcat/index.html?lang=en
 
 [My RunCat Setting](software/RunCat/RunCat.md)
 
+### TopNotch
+
+Makes the notch disappear like a 🥷.
+
+https://topnotch.app/?ref=topnotchapp
+
+[My TopNotch Setting](software/TopNotch/TopNotch.md)
+
+
