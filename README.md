@@ -7,12 +7,15 @@ My MacOS configuration and setting.
 
 An elegant Window Manger on MacOS.
 
-[Github Link](https://github.com/MrKai77/Loop)
+https://github.com/MrKai77/Loop
 
 [My Loop Setting](software/Loop/Loop.md)
 
 ### MediaMate
 
+https://wouter01.github.io/MediaMate/
+
+[My MediaMate Setting](software/MediaMate/MediaMate.md)
 
 
 
