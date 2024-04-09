@@ -15,4 +15,3 @@ Runner: cat α
 All on.
 
 System Info Bar 功能已不再支持。
-
