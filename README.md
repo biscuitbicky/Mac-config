@@ -19,6 +19,14 @@ https://wouter01.github.io/MediaMate/
 
 [My MediaMate Setting](software/MediaMate/MediaMate.md)
 
+### pap.er
+
+Elegant Wallpaper App for macOS.
+
+https://paper.meiyuan.in
+
+[My pap.er Setting](software/pap.er/pap.er.md)
+
 ### RunCat
 
 猫猫跑的越快，CPU占用率就越高。又可爱又实用。(免费可用)
