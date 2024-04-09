@@ -5,7 +5,7 @@ https://wouter01.github.io/MediaMate/
 
 ### General
 
-
+![General Page](general.png)
 * Display Behavior
   不知道是啥。好像没啥影响。有知道的请务必联系我(WX:pacman_Syyu QQ:2166318849)。
 * Focus Filters
@@ -13,16 +13,17 @@ https://wouter01.github.io/MediaMate/
 
 ### Audio
 
+PS: 如果想使用功能键调节声音，请先开启General - Event Controller Mode - Keyboard
 * Placement - Sync
   开启，则各项调节的图标位置保持一致。修改也会同步。
-	* Show When Using Touchbar Sliders
-	  我的理解是，使用Touchbar调节音量时，显示图标。但实际使用中，如果不开启，使用F10~F12调节系统音量时，不会触发音量调节图标。
 * Sound
 	* Play something when the volume is changed.
 	  我的理解是，比如插入耳机后，由系统音量改为耳机音量，这种音量改变，如果出现了，会发出提示音提醒你。
-	  但实际使用中没听到过。无关紧要的一个功能。
+	  但实际使用中没听到过。如果我理解的不对，请联系我(WX:pacman_Syyu QQ:2166318849)。
 ![Audio Page](audio.png)
 ### Brightness
+
+PS: 如果想使用功能键调节声音，请先开启General - Event Controller Mode - Keyboard
 
 ![Brightness Page](brightness.png)
 ### Keyboard Brightness
