@@ -5,7 +5,7 @@ https://wouter01.github.io/MediaMate/
 
 ### General
 
-![General Page](general.png)
+![General Page](core/MacOS.git/Application/MediaMate/general.png)
 * Display Behavior
   不知道是啥。好像没啥影响。有知道的请务必联系我(WX:pacman_Syyu QQ:2166318849)。
 * Focus Filters

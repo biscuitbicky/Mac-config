@@ -9,7 +9,7 @@ An elegant Window Manger on MacOS.
 
 https://github.com/MrKai77/Loop
 
-[My Loop Setting](software/Loop/Loop.md)
+[My Loop Setting](Loop.md)
 
 ### MediaMate
 
@@ -17,7 +17,7 @@ Fresh visuals for Volume, Brightness and Now Playing. **(License required)**
 
 https://wouter01.github.io/MediaMate/
 
-[My MediaMate Setting](software/MediaMate/MediaMate.md)
+[My MediaMate Setting](MediaMate.md)
 
 ### pap.er
 
@@ -25,7 +25,7 @@ Elegant Wallpaper App for macOS.
 
 https://paper.meiyuan.in
 
-[My pap.er Setting](software/pap.er/pap.er.md)
+[My pap.er Setting](pap.er.md)
 
 ### RunCat
 
@@ -33,7 +33,7 @@ https://paper.meiyuan.in
 
 https://kyome.io/runcat/index.html?lang=en
 
-[My RunCat Setting](software/RunCat/RunCat.md)
+[My RunCat Setting](RunCat.md)
 
 ### TopNotch
 
@@ -41,6 +41,6 @@ Makes the notch disappear like a 🥷.
 
 https://topnotch.app/?ref=topnotchapp
 
-[My TopNotch Setting](software/TopNotch/TopNotch.md)
+[My TopNotch Setting](TopNotch.md)
 
 

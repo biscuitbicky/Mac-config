@@ -3,7 +3,7 @@ Based on 1.0.0-beta.15 (817) ^ Apr 9, 2024
 
 https://github.com/MrKai77/Loop
 ### General
-![General Page](general.png)
+![General Page](core/MacOS.git/Application/Loop/general.png)
 * Behavior
 	* Window Snapping
 	  通过贴靠屏幕边缘排列窗口。
